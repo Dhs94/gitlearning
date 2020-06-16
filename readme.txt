@@ -15,3 +15,8 @@ Git learning
 14.git merge brachname
 15.git merge --no-ff branchname
 16.git stash
+17.git remote
+18.git remote -v
+19.git pull
+20.git checkout -b branchname origin/branchname
+21.git branch --set-upstream branchname orign/branchanme
