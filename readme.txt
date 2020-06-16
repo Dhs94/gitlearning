@@ -8,4 +8,7 @@ Git learning
 7,git restore filenam
 8.git remote add origin sshaddress
 9.git push -u origin master
-e
+10.git checkout -b branchname
+11.git branch
+12.git checkout branchname
+
