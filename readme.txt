@@ -13,4 +13,8 @@ Git learning
 12.git checkout branchname
 13.git branch -d branchname
 14.git merge brachname
+<<<<<<< HEAD
 15.git you
+===
+15.git you
+>>>>>>> feature1
