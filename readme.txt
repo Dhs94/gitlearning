@@ -11,4 +11,5 @@ Git learning
 10.git checkout -b branchname
 11.git branch
 12.git checkout branchname
-
+13.git branch -d branchname
+14.git merge brachname
