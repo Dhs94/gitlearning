@@ -5,3 +5,7 @@ Git learning
 4.git log --pretty=online
 5.git reset --hard HEAD^
 6.git diff HEAD --filename
+7,git restore filenam
+8.git remote add origin sshaddress
+9.git push -u origin master
+e
